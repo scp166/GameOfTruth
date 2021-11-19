@@ -16,7 +16,7 @@
 
 - How to get Era token:
 
-  ![image-20211117162945927](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211117162945927.png)
+  ![How to get Era token](\image\How to get Era token.png)
 
 - Purchase on DEX\CEX platforms
 

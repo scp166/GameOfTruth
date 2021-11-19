@@ -14,6 +14,7 @@
     * [Inheritance](Game Play/Inheritance.md)
     * [Continent](Game Play/Continent.md)
 * [Token economy](Token economy/Token economy.md)
+    * [Token economy](Token economy/Token economy.md)
     * [Token Releasing Rules](Token economy/Token Releasing Rules.md)
     * [Treasury](Token economy/Treasury.md)
 * [Roadmap](Roadmap/Roadmap.md)

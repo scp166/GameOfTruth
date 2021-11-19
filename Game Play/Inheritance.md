@@ -6,4 +6,4 @@
 
 - The quality (common, rare, epic or legend) of the Battle Card summoned by the master card and the inheritance master card will also have random differences in each attribute.
 
-  ![image-20211117162749302](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211117162749302.png)
+  ![kb1](\image\kb1.png)

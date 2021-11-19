@@ -4,4 +4,4 @@
 
 - When players have a variety of cards use synthesizing,play greater value. The synthesis process may succeed or fail. The synthetic highlevel cards can be traded at a higher price in the NFT market.
 
-  ![image-20211117162705709](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211117162705709.png)![image-20211117162714576](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211117162714576.png)
+  ![Synthesizing](\image\Synthesizing.png)

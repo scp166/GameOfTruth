@@ -1,7 +1,7 @@
 # PVP Player & Player
 
 - In the Era7 metaverse, when a player enters the PVP arena, he/she can be matched with other players to fight, and gain rewards of Era7 token and GOT after winning the battle.Players with higher ranking can get more rewards from the game.In addition, Era token and GOT can be sold or exchangedin the marketplace, so that players can get profits from it.
-- PVP has a variety of battles:![image-20211117162518737](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211117162518737.png)
+- PVP has a variety of battles:![dz](\image\dz.png)
 - Expert Alliance (Daily)
 - Ranked competition(Monthly)
 - World Cup (Fortnightly)

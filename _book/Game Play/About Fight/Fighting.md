@@ -4,4 +4,4 @@
 
 - The core essentials of combat are: to establish battlefield advantages and powerful card groups, and to play games with opponents through careful consideration.
 
-![image-20211117162012463](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211117162012463.png)
+![Fighting](\image\Fighting.png)

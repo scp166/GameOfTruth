@@ -4,4 +4,4 @@
 
 - Each master card can consume one ALP summoned battle card every day, which can be summoned 360 times in total. The quality of the summoned Battle Card will correspond to the quality of the master card (including four qualities: common, rare, epic and legend). The master card cannot fight, but it is very precious.
 
-  ![image-20211117162624063](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211117162624063.png)
+  ![Summoning](\image\Summoning.png)

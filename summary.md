@@ -1,0 +1,23 @@
+# Summary
+
+* Introduction
+* \[Market Status]\(Market Status/Market Status.md)
+* \[BackGround Of The Game]\(BackGround Of The Game/BackGround Of The Game.md)
+* \[An introduction to Era7cards]\(An introduction to Era7cards/An introduction to Era7cards.md)
+* \[Game Play]\(Game Play/Game Play.md)
+  * \[About Fight]\(Game Play/About Fight.md)
+    * \[Fighting]\(Game Play/About Fight/Fighting.md)
+    * \[PVE Player & Environment]\(Game Play/About Fight/PVE Player & Environment.md)
+    * \[PVP Player & Player]\(Game Play/About Fight/PVP Player & Player.md)
+  * \[Summoning]\(Game Play/Summoning.md)
+  * \[Synthesizing]\(Game Play/Synthesizing.md)
+  * \[Inheritance]\(Game Play/Inheritance.md)
+  * \[Continent]\(Game Play/Continent.md)
+* \[Token economy]\(Token economy/Token economy.md)
+  * \[Token economy]\(Token economy/Token economy.md)
+  * \[Token Releasing Rules]\(Token economy/Token Releasing Rules.md)
+  * \[Treasury]\(Token economy/Treasury.md)
+* Roadmap
+  * Vision
+* \[Team Member]\(Team Member/Team Member.md)
+* \[Legal statement]\(Legal statement/Legal statement.md)

@@ -12,3 +12,4 @@
   * [Token Releasing Rules](page-1/token-releasing-rules.md)
   * [Player](page-1/player.md)
 * [Introduction](<README (1).md>)
+* [BackGround Of The Game](background-of-the-game.md)

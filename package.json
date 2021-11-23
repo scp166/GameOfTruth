@@ -7,8 +7,10 @@
     "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-code": "^0.1.0",
     "gitbook-plugin-expandable-contract-chapters": "^1.0.2",
-    "gitbook-plugin-insert-logo": "^0.1.5",
-    "gitbook-plugin-search-pro": "^2.0.2"
+    "gitbook-plugin-logo": "0.0.2",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-theme-cuav": "^1.1.5",
+    "gitbook-plugin-theme-lou": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {

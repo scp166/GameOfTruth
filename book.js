@@ -6,12 +6,20 @@ module.exports = {
     lang: "zh-cn",
 
     //插件列表
-    plugins: ["-lunr", "-search", "search-pro", "code", "expandable-contract-chapters", "back-to-top-button","insert-logo"],
+    plugins: ["-lunr", "-search", "search-pro", "code", "expandable-contract-chapters", "back-to-top-button","theme-lou"],
     //插件全局配置
     pluginsConfig: {
-        "insert-logo": {
-            "url": "/image/logo.jpg",
-            "style":"background:none;max-height:60px;min-height:60px"
+      
+       
+        "theme-lou":
+        {
+            "color": "#2096FF",
+            "favicon": "/image/logo.jpg",
+            "logo": "/image/logo.png",
+            "logoStyle": "width:200px",
+            "url": "http://localhost:4000/",
+            "search-placeholder": "Input Keywords to Search",
+            "book-summary-title": "GameOfTruth"
         }
     },
     //自定义

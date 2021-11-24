@@ -7,6 +7,6 @@
 
 ![](../../.gitbook/assets/image.png)
 
-{% content-ref url="aboutfight/" %}
-[aboutfight](aboutfight/)
+{% content-ref url="aboutfight.md" %}
+[aboutfight.md](aboutfight.md)
 {% endcontent-ref %}

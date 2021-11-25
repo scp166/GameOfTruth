@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/image (18).png
+coverY: 0
+---
+
 # Game Play
 
 * An NFT trading card game inspired by Heartstone and Magic: the Gathering. Standing on the shoulders of Titan, it is a groundbreaking new gameplay. It is the only mild competitive game in the world with a three-minute game.
@@ -7,6 +12,18 @@
 
 ![](../../.gitbook/assets/image.png)
 
+{% content-ref url="../an-introduction-to-era7.md" %}
+[an-introduction-to-era7.md](../an-introduction-to-era7.md)
+{% endcontent-ref %}
+
 {% content-ref url="aboutfight.md" %}
 [aboutfight.md](aboutfight.md)
+{% endcontent-ref %}
+
+{% content-ref url="summoning.md" %}
+[summoning.md](summoning.md)
+{% endcontent-ref %}
+
+{% content-ref url="synthesizing.md" %}
+[synthesizing.md](synthesizing.md)
 {% endcontent-ref %}

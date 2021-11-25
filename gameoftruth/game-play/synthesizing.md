@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/image (18).png
+coverY: 0
+---
+
 # Synthesizing
 
 * Battle cards are the basis for players to play games. Players need at least 30 battle cards before they can start fighting. Battle cards also have quality (including four qualities: common, rare, epic and legend). Two battle cards with the same quality and the same name can consume one battle card with stronger ALP synthesis attribute. The synthesized Battle Card will randomly obtain higher attack power Defense and other values.

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/image (18).png
+coverY: 0
+---
+
 # An introduction to Era7cards
 
 * A lightly competitive 3-minute game can encapsulate unlimited changes in strategy, providing the gamers endless imagination and fun. The team hopes to bring innovation even further with the development of its GameFi product. Players get rich rewards after defeating their opponents..
@@ -6,4 +11,4 @@
 * Era7 has two types of cards: Master card and Battle Card.Players need at least 30 battle cards to start the battle. The number of cards in the game exceeds 1000. The master card and battle sub card are NFTs. Players can play to earn in the game：
 *
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)

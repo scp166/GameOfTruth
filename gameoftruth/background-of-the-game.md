@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/image (18).png
+coverY: 0
+---
+
 # BackGround Of The Game
 
 * Era7:game of truth is a virtual world parallel to the real one. It is built based on Web3.0 and is a "traversing" and "distributed" Internet world. In this virtual world with complete spatial perception and physical rules, there are monetary assets, social methods and social forms. It is not only independent of the real world, but also complementary to it.

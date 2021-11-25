@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/image (18).png
+coverY: 0
+---
+
 # Summoning
 
 * Era7 can use Summoning Skills to randomly obtain new combat cards through the master card. The master card needs to be purchased or traded by the player through the Era token. The battle card can be used for battle or trading. The master card needs to consume GOT to use the summoning skill. Players can get GOT by participating in various game activities.

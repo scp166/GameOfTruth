@@ -15,8 +15,8 @@
 * [Token economy](gameoftruth/token-economy.md)
 * [Roadmap](gameoftruth/roadmap.md)
 
-## AboutNFT
+## AboutOurs
 
-* [Market status](aboutnft/market-status.md)
-* [Team Member](aboutnft/team-member.md)
-* [Legal statement](aboutnft/legal-statement.md)
+* [Market status](aboutours/market-status.md)
+* [Team Member](aboutours/team-member.md)
+* [Legal statement](aboutours/legal-statement.md)

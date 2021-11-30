@@ -40,7 +40,7 @@ The total amount of Era tokens is 1billion.It is a token built by Era7 Metaverse
 
 ![](<../.gitbook/assets/image (14).png>)
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 * Development 15%&#x20;
 * Development 15%&#x20;

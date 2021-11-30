@@ -18,11 +18,11 @@ coverY: 0
 
 &#x20;
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 
 * The PVE of Era7 includes at least 50 levels, 8 campaigns, more than 3000 stages, a variety of challenges.We will continue to update PVE levels in subsequent versions of the game.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 ## PVP Player\&Player
 

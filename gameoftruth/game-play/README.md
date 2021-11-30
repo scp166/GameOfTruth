@@ -5,15 +5,18 @@ coverY: 0
 
 # Game Play
 
-* An NFT trading card game inspired by Heartstone and Magic: the Gathering. Standing on the shoulders of Titan, it is a groundbreaking new gameplay. It is the only mild competitive game in the world with a three-minute game.
-*
-* Era7cards are divided into battle cards, and master cards for summoning. Various cards of various races increase the richness and playability of the game. Seven forces, as many as 1,000 cards, give Era7 unlimited imagination and value.
-* Era7 has a huge card system. The number of battle cards will reach 1000. The numerical system in the game is very balanced and the logic of play design is clear, which makes the battles in the era7 game more rich and diverse, fair and competitive. The playability of the game is also greatly enhanced. In addition, the fast battle of one game in three minutes, Let players form their own unique lineup through strategies. No matter what the player's level, they can have fun and money in E-sports.
+
+
+* We’re offering an NFT trading-card game inspired by Hearthstone and Magic: The Gathering. Standing on the shoulders of a Titan, there’s groundbreaking new gameplay to be had. Moreover, whilst this is a highly-competitive game, it is relatively stress-free and requires very little commitment, with games lasting just 3 minutes each.
+* Era7’s cards are divided into battle cards and master cards for summoning. Various cards from various races increase the richness and playability of the game tenfold. Seven forces, with as many as 1,000 cards, give Era7 unlimited reach, territory in which to expand and incredible value as a game.
+* It is this huge card system that shall give the game a fantastic variety – there will always be new heights for players to reach, and as a result, the chance of player burnout is zero.
+* Moreover, the numerical system in the game is very balanced and the logic of the game’s design is very clear, which makes Era7’s battles rich and diverse while fair and competitive.
+* With each battle lasting only three minutes, players are forced to think on their feet to form their own unique lineups through intensive strategic planning. No matter what the player's level is, they can have fun. Furthermore, for those that like to take risks, E-sports is a promising faculty that the game will provide as standard.
 
 ![](../../.gitbook/assets/image.png)
 
-{% content-ref url="../an-introduction-to-era7.md" %}
-[an-introduction-to-era7.md](../an-introduction-to-era7.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="aboutfight.md" %}

@@ -9,4 +9,4 @@ coverY: 0
 * For example, the attack power, defense power, HP of battle cards and the special effects of different biological cards.
 * The quality (common, rare, epic or legend) of the Battle Card summoned by the master card and the inheritance master card will also have random differences in each attribute.
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)

@@ -15,8 +15,8 @@ coverY: 0
 
 ![](../../.gitbook/assets/image.png)
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="an-introduction-to-era7cards.md" %}
+[an-introduction-to-era7cards.md](an-introduction-to-era7cards.md)
 {% endcontent-ref %}
 
 {% content-ref url="fighting-gameplay.md" %}
@@ -29,4 +29,12 @@ coverY: 0
 
 {% content-ref url="synthesizing.md" %}
 [synthesizing.md](synthesizing.md)
+{% endcontent-ref %}
+
+{% content-ref url="inheritance.md" %}
+[inheritance.md](inheritance.md)
+{% endcontent-ref %}
+
+{% content-ref url="continent.md" %}
+[continent.md](continent.md)
 {% endcontent-ref %}

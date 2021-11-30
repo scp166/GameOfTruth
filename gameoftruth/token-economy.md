@@ -1,68 +1,70 @@
 ---
-cover: ../.gitbook/assets/image (11).png
+cover: ../.gitbook/assets/image (11) (1).png
 coverY: 0
 ---
 
 # Token economy
 
-The total amount of Era tokens is 1billion.It is a token built by Era7 Metaverse on the Binance Smart Chain(BSC),and currently only serves as Era7’s platform token. Players can obtain Era token rewards through modes such as battles, summoning, community incentives, and land exploration. With the development of Era7 metaverse, the functions of Era tokens will extend to community governance, pledge and other rights and interests. The platform currency Era token is the green Bitcoin of the entire Era7 metaverse world. Era tokens are similar to stable tokens, and supply and demand are balanced by the market. The Era token obtained by the player can be exchanged for USDT or local currency. Era token can also be purchased on other DEX\CEX platforms to summon new Era7cards.
+* The total amount of Era tokens to be issued is 1 billion. This is a token built by the Era7 Metaverse on the Binance Smart Chain (BSC), and currently serves exclusively as Era7’s platform token. Players can obtain Era token rewards through battling, summoning, getting involved in community incentives, and liquidity mining. With the development of the Era7 metaverse, the functions of Era tokens will extend to community governance, pledging and other rights and interests. The platform currency, the Era token, is effectively the Bitcoin of the entire Era7 metaverse. Era tokens are similar to stable tokens, and supply and demand are dictated by the market. The Era token obtained by the player can be exchanged for USDT or local fiat. Era tokens can also be purchased on other DEX\CEX platforms to summon new Era7cards.
+* Main uses of the Era token:
+  * To gain local currency via an exchange;&#x20;
+  * To purchase GOT\master cards\battle cards\NFT items\NFT mystery boxes on the marketplace;
+  * &#x20;To enable transactions between players (Era tokens may be used to trade Era7 cards, GOT or other in-game items);&#x20;
+  * To purchase land and get more Era token rewards&#x20;
+  * To issue a pledge for obtaining community rights, participating in governance, voting and subsequent decision-making;&#x20;
+  * As a wager and/or as a registration fee for PVP.
+*   How to get Era tokens:&#x20;
 
-* Main uses of Era token:
-  * Exchange other virtual currencies in the primary place to obtain value.
-  * &#x20;Purchase GOT\master cards\battle cards\NFT items\NFT mystery boxes in the marketplace.&#x20;
-  * Transactions between players ( Era tokens or trading Era7 cards or GOT or other game items).&#x20;
-  * Purchase land and get more Era token rewards Pledge to obtain community rights , participate in governance voting and subsequent decisions major issues.
-  * &#x20;Participate in the PVP mode as part of the egistration fee and participate in the PVP bet.
-* How to get Era token:&#x20;
-  * Purchase on DEX\CEX platforms&#x20;
-  * Game rewards or air drops&#x20;
-  * Liquidity mining&#x20;
-  * How to get GOT（GOT can be used to summon battle cards from the master card）:
-    * &#x20;PVE rewards
-    * &#x20;PVP & staking rewards
-* Deflation mechanism: Era tokens have established a deflation model of sell-and-burn. For every Era token sold by the user, 4% will enter the treasury and 1% will be automatically melt. The whole process is automatically executed through smart contract, which can be checked on the chain, making it transparent and fair. In addition, Era7 players need to consume a certain percentage of Era tokens to summon new Era7cards, thereby providing new circulation for the secondary market.
+    * Purchase them on DEX\CEX platforms;
+    * Attain them via in-game rewards or air drops;&#x20;
+    * Acquire them via liquidity mining.&#x20;
+    * From PVP rewards.
 
-![](<../.gitbook/assets/image (6).png>)
 
-![](<../.gitbook/assets/image (29).png>)
+* How to get GOT (GOT can be used to summon battle cards from the master card):&#x20;
+  * From in game activities rewards&#x20;
+  * From PVE rewards.
+* The deflation mechanism: Era tokens are subject to an established deflation model of ‘sell and burn’. For every Era token sold by the user, 4% will enter the treasury and 1% will be automatically burnt. The whole process is automatically executed through smart contracts, which can be checked on the chain, making the process transparent and fair. In addition, Era7 players need to consume a certain percentage of GOT to summon new Era7 cards, thereby providing new circulation for the secondary market.
 
-* Play to earn 52%&#x20;
-* The circulation earned accounts for 52% of the total supply of Era Token.&#x20;
-* Players will earn tokens through the following key behaviors, such as:
-  * Competing and winning battle
-  * Winning tournaments
-  * Interacting with and tending to your land plots
-  * Using the Era 7 website marketplace
-  * Participate in other games in the arena and platform
-  * Of the 52% tokens allocated by mining(play to earn), 22% will be used for ecological incentives in the game, including in-game behavior using NFT card and participating in various competitions set in the game. At the same time, 30% of the tokens will be used to reward users to participate in the platform arena officially built. The Era7 game project team will further build the whole competitive ecological chain, launch an ace competitive product every year, and the NFT of Era token and Era game will be universal to the platform.
-  * Liquidity Mining 3%&#x20;
-  * Game officials will be committed to providing liquidity on DEX / CEX .
+![](<../.gitbook/assets/image (8).png>)
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (4).png>)
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (29) (1).png>)
 
-* Development 15%&#x20;
-* Development 15%&#x20;
-*   The Core team
+* Play to earn – 52%
+* The circulation of earned tokens will account for 52% of the total Era token supply.
+* Of the 52% of tokens allocated through mining (play-to-earn), 20% will be used for ecological game incentives, including in-game behaviors that require NFT cards and the participation in various competitions set by the game. At the same time, 32% of the tokens will be used Participation in the competitive community platform and other competitive game modes that will be added in future. The Era7 project team will further develop the competitive ecological chain, launching an ace competitive product every year; the NFT of the Era token and the Era game will be universal to the platform.&#x20;
+* Liquidity Mining – 3%&#x20;
+* Game officials will be committed to providing liquidity on DEX / CEX.
 
-    Ecosystem Partner 8%&#x20;
-* Ecological partners include such as:Engineering Partner，Advisory, Collabroting IP designer and gaming/3D develpoment
-* Operation\&Promotion 4%
-* &#x20;KOLs, Competitors ,Community Building, Promotions
-* Seed\&Private 17.5%
-* &#x20;private1,private2 and institutional investors
+![](<../.gitbook/assets/image (19).png>)
+
+![](<../.gitbook/assets/image (3).png>)
+
+![](<../.gitbook/assets/image (10).png>)
+
+![](<../.gitbook/assets/image (26).png>)
+
+* Development –  15%&#x20;
+* The Core team
+* Ecosystem Partnerships – 8%&#x20;
+* Ecological partnerships include: engineering, advisory, IP designers, gaming and 3D development.
+* Operation & Promotion – 4%&#x20;
+* KOLs, Competitors, Community Building, Promotions.
+* Seed & Private rounds – 17.5%&#x20;
+* Private1 ,Private2 and institutional investors.
 * IDO 0.5%
 
-## Token Releasing Rules
+## Token vesting
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 ## Treasury
 
-* In the future, the Community Treasury will go live. The Community Treasury will begin to receive revenues generated by Era 7 Game as well as a portion of staking rewards. This treasury will be governed by Era 7 stakers eventually, once the network has become sufficiently decentralized.&#x20;
+* In the future, the’Community Treasury‘will go live. This is effectively an entity that will receive revenue generated by Era 7 as well as a portion of wagering rewards. This treasury will eventually be governed by those who place wagers on the Game of Truth, once the network has become sufficiently decentralized.ra 7 stakers eventually, once the network has become sufficiently decentralized.&#x20;
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ![](<../.gitbook/assets/image (9).png>)
 

@@ -1,17 +1,34 @@
 ---
-cover: .gitbook/assets/image (18).png
+cover: .gitbook/assets/image (11) (1).png
 coverY: 0
 ---
 
-# Market overview
+# CONTENTS
 
-* 2021 marks the first year for the explosion of GameFi and its accompanying metaverse. GameFi is effectively DeFi, but ‘gamefied’; it introduces gaming elements to make it more accessible for ordinary people and often incorporates NFT tokens into the gameplay to enable users to make money in real life. By introducing financial attributes, the user quickly realises that they’re able to mine tokens through gameplay with a play-to-earn ideology at the forefront of their experience. Equally, their funds can be converted into equipment or props which hold investment value. GameFi’s model has successfully attracted the attention of the gaming industry and the blockchain circle alike, and as a result, has become a Horcrux of public discussion.
-* DeFi: the first boom was experienced in July of 2020, followed by a peak of activity in March of 2021. It was then that the concept became accepted by traditional technological and financial businesses.&#x20;
-* &#x20;NFTs: March of 2021 ushered in the first burst of popularity, while August 2021 marked the start of the boom period. NFTs are now recognised throughout the entire art world.
-* Gamefi: the market is booming and the activity peak has arrived.
-* The global gaming market is continuing to expand, while the industry remains in a superb situation. According to statistics from Newzoo, the scale of the global gaming market has increased from 70.6 billion USD in 2020, to 177.8 billion in 2021, with a CAGR of 12.2%. Moreover, it’s expected to exceed 200 billion USD by the end of 2023. Furthermore, the proportion of mobile games in the market has risen from 12% in 2012 to 49% in 2020 and is expected to reach 52% before the end of 2021. The global gaming market will continue to grow thereafter. These statistics demonstrate that the overall development trend of the industry is good, and there’s plenty of room for growth.
-* In 2020, 72 million USD had been invested in blockchain games, and as of July 30, 2021, that number has exceeded one billion.
-* The metaverse is a virtual world built on the blockchain. It’s a decentralized platform that allows users to enjoy ownership and autonomy without the catch. The immersive experience brings the virtual world closer to reality, with users being able to shuttle freely between the physical world and the digital world anytime, anywhere. They’ll also be able to conduct actions that have a positive impact on their real-life financial situation, with investment and trading featuring as an integral part of the system.
-* The metaverse is the internet’s very own development vision and has become a reasonable direction for the development and exploration of the gaming industry. It focuses on the long-term development of digital infrastructure, terminal equipment, game content and the technology of virtual currencies. The metaverse is expected to bring a new level of entertainment, more social modes, and the ability to work collaboratively to the table. Not to mention, it will give individuals access to a source of income and investment. A blockchain game is the best way to present the Metaverse and will continue to make social breakthroughs and evolutions via concepts such as open worlds, UGC and virtual currencies.
-* From basic ecosystems to advanced applications, the metaverse and Gamefi are crashing into the world like huge boulders ready to be mined for their resources. From the current industry perspective, we’re not just looking at encrypted art, but the rapid development of NFTs and the start of a next-generation gaming craze. Differing from the familiar kind of blockchain games that originated a few years ago, the diversity of gameplay and the innovation of game mechanics provide even more possibilities and a huge amount of power to the gaming industry. Models such as P2E (pay-to-earn) and NFTs have accelerated the popularity of the metaverse and Gamefi concepts, and have also broken down the barriers of previous blockchain projects.
+{% content-ref url="gameoftruth/market-overview.md" %}
+[market-overview.md](gameoftruth/market-overview.md)
+{% endcontent-ref %}
 
+{% content-ref url="gameoftruth/background-of-the-game.md" %}
+[background-of-the-game.md](gameoftruth/background-of-the-game.md)
+{% endcontent-ref %}
+
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
+
+{% content-ref url="gameoftruth/game-play/" %}
+[game-play](gameoftruth/game-play/)
+{% endcontent-ref %}
+
+{% content-ref url="gameoftruth/token-economy.md" %}
+[token-economy.md](gameoftruth/token-economy.md)
+{% endcontent-ref %}
+
+{% content-ref url="about-us/roadmap-and-vision.md" %}
+[roadmap-and-vision.md](about-us/roadmap-and-vision.md)
+{% endcontent-ref %}
+
+{% content-ref url="aboutours/legal-statement.md" %}
+[legal-statement.md](aboutours/legal-statement.md)
+{% endcontent-ref %}

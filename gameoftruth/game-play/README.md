@@ -19,8 +19,8 @@ coverY: 0
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="aboutfight.md" %}
-[aboutfight.md](aboutfight.md)
+{% content-ref url="fighting-gameplay.md" %}
+[fighting-gameplay.md](fighting-gameplay.md)
 {% endcontent-ref %}
 
 {% content-ref url="summoning.md" %}

@@ -30,7 +30,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (4).png>)
 
-![](<../.gitbook/assets/image (29) (1).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 * Play to earn – 52%
 * The circulation of earned tokens will account for 52% of the total Era token supply.

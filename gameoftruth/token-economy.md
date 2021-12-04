@@ -58,7 +58,7 @@ coverY: 0
 
 ## Token vesting
 
-![](<../.gitbook/assets/image (11).png>)
+![](../.gitbook/assets/image1.jpg)
 
 ## Treasury
 

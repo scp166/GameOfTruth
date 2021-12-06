@@ -23,5 +23,5 @@
 
 ## LANGUAGE VERSION
 
-* [Era7 - English](about-us/language-version/era7-english.md)
+* [Era7 - English](https://whitepaper.era7.io/gameoftruth/contents)
 * [Era7 - 繁體中文](https://jt0.gitbook.io/copy-of-gameoftruth/)

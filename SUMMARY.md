@@ -1,12 +1,8 @@
 # Table of contents
 
-* [LANGUAGE VERSION](README.md)
-  * [🇺🇲 Era7 - English](language-version/era7-english.md)
-  * [🇨🇳 Era7 - 繁體中文](https://jt0.gitbook.io/copy-of-gameoftruth/)
-
 ## GameOfTruth
 
-* [CONTENTS](<README (1).md>)
+* [CONTENTS](README.md)
 * [Market overview](gameoftruth/market-overview.md)
 * [The Game’s Background](gameoftruth/background-of-the-game.md)
 * [An introduction to Era7](<README (1) (1).md>)
@@ -24,3 +20,10 @@
 * [Roadmap & Vision](about-us/roadmap-and-vision.md)
 * [Team Member](aboutours/team-member.md)
 * [Legal statement](aboutours/legal-statement.md)
+* [LANGUAGE VERSION](about-us/language-version/README.md)
+  * [🇺🇲 Era7 - English](about-us/language-version/era7-english.md)
+  * [🇨🇳 Era7 - 繁體中文](https://jt0.gitbook.io/copy-of-gameoftruth/)
+
+***
+
+* [LANGUAGE VERSION](language-version.md)

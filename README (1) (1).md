@@ -23,4 +23,4 @@ coverY: 0
 
 ![](<.gitbook/assets/image (15).png>)
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)

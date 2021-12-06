@@ -20,10 +20,8 @@
 * [Roadmap & Vision](about-us/roadmap-and-vision.md)
 * [Team Member](aboutours/team-member.md)
 * [Legal statement](aboutours/legal-statement.md)
-* [LANGUAGE VERSION](about-us/language-version/README.md)
-  * [🇺🇲 Era7 - English](about-us/language-version/era7-english.md)
-  * [🇨🇳 Era7 - 繁體中文](https://jt0.gitbook.io/copy-of-gameoftruth/)
 
-***
+## LANGUAGE VERSION
 
-* [LANGUAGE VERSION](language-version.md)
+* [🇺🇲 Era7 - English](language-version/era7-english.md)
+* [🇨🇳 Era7 - 繁體中文](https://jt0.gitbook.io/copy-of-gameoftruth/)

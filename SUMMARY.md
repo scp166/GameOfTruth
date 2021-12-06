@@ -1,11 +1,15 @@
 # Table of contents
 
+* [LANGUAGE VERSION](README.md)
+  * [🇨🇳 Era7 - 繁體中文](https://jt0.gitbook.io/copy-of-gameoftruth/)
+  * [🇺🇲 Era7 - English](language-version/era7-english.md)
+
 ## GameOfTruth
 
-* [CONTENTS](README.md)
+* [CONTENTS](<README (1).md>)
 * [Market overview](gameoftruth/market-overview.md)
 * [The Game’s Background](gameoftruth/background-of-the-game.md)
-* [An introduction to Era7](<README (1).md>)
+* [An introduction to Era7](<README (1) (1).md>)
 * [Game Play](gameoftruth/game-play/README.md)
   * [An introduction to Era7’s cards](gameoftruth/game-play/an-introduction-to-era7cards.md)
   * [Fighting gameplay](gameoftruth/game-play/fighting-gameplay.md)

@@ -31,8 +31,8 @@ coverY: 0
 [synthesizing.md](synthesizing.md)
 {% endcontent-ref %}
 
-{% content-ref url="inheritance.md" %}
-[inheritance.md](inheritance.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="continent.md" %}

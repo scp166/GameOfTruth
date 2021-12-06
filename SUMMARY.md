@@ -11,7 +11,6 @@
   * [Fighting gameplay](gameoftruth/game-play/fighting-gameplay.md)
   * [Summoning](gameoftruth/game-play/summoning.md)
   * [Synthesizing](gameoftruth/game-play/synthesizing.md)
-  * [Inheritance](gameoftruth/game-play/inheritance.md)
   * [Continent](gameoftruth/game-play/continent.md)
 * [Token economy](gameoftruth/token-economy.md)
 

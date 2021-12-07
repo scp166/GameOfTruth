@@ -20,7 +20,3 @@ coverY: 0
 * The art of the game has been adapted to suit players of every nationality around the world;
 * The game’s quality is impeccable and state-of-the-art;
 * The design of the competitive system is clear and reasonable.
-
-![](<.gitbook/assets/image (15).png>)
-
-![](<.gitbook/assets/image (7) (1).png>)

@@ -15,11 +15,6 @@ coverY: 0
 ## PVE Player & Environment
 
 * Throughout Era7 PVE mode. Players need at least 30 battle cards to fight and face a variety of rich challenges. When the player passes a level, GOT (similar to Axie's SLP, this can be used to summon battle cards from the master card) can be obtained. Players can also repeat the challenge daily to obtain corresponding rewards in the form of resources.
-
-&#x20;
-
-![](<../../.gitbook/assets/image (27) (1).png>)
-
 * The PVE of Era7 includes at least 50 levels, 8 campaigns, more than 3,000 stages and a variety of challenges. We’ll continue to update PVE levels in subsequent versions of the game.
 
 ![](<../../.gitbook/assets/image (7) (1) (1).png>)

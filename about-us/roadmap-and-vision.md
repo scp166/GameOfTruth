@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/image (11) (1).png
+cover: ../.gitbook/assets/Banner-带logo.jpg
 coverY: 0
 ---
 
@@ -51,4 +51,4 @@ coverY: 0
 
 * Era7 is committed to becoming the best Gamified TCG card game in the world. With fairness, safety and transparency at the core of the game and interesting gameplay with rich player benefits on the outer, Era7: Game of Truth is set for an exponentially upward roller-coaster ride. Its life cycle is practically infinite, truly epitomizing the ‘play-to-earn’ ideology. It will also bring a fresh breath of productivity to the blockchain and gaming industries, it shall flesh out the new model of NFT + Gamefi + Defi, and move the world towards the era of metaverse gaming. Lastly, we should mention that a variety of top partners are already onboard.
 
-![](<../.gitbook/assets/image (30) (1).png>)
+![](../.gitbook/assets/视野.jpg)

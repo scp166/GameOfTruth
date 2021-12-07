@@ -5,24 +5,24 @@ coverY: 0
 
 # CONTENTS
 
-{% content-ref url="gameoftruth/market-overview.md" %}
-[market-overview.md](gameoftruth/market-overview.md)
+{% content-ref url="era7-game-of-truth/market-overview.md" %}
+[market-overview.md](era7-game-of-truth/market-overview.md)
 {% endcontent-ref %}
 
-{% content-ref url="gameoftruth/background-of-the-game.md" %}
-[background-of-the-game.md](gameoftruth/background-of-the-game.md)
+{% content-ref url="era7-game-of-truth/the-games-background.md" %}
+[the-games-background.md](era7-game-of-truth/the-games-background.md)
 {% endcontent-ref %}
 
-{% content-ref url="README (1) (1).md" %}
-[README (1) (1).md](<README (1) (1).md>)
+{% content-ref url="era7-game-of-truth/an-introduction-to-era7.md" %}
+[an-introduction-to-era7.md](era7-game-of-truth/an-introduction-to-era7.md)
 {% endcontent-ref %}
 
-{% content-ref url="gameoftruth/game-play/" %}
-[game-play](gameoftruth/game-play/)
+{% content-ref url="era7-game-of-truth/game-play/" %}
+[game-play](era7-game-of-truth/game-play/)
 {% endcontent-ref %}
 
-{% content-ref url="gameoftruth/token-economy.md" %}
-[token-economy.md](gameoftruth/token-economy.md)
+{% content-ref url="era7-game-of-truth/token-economy.md" %}
+[token-economy.md](era7-game-of-truth/token-economy.md)
 {% endcontent-ref %}
 
 {% content-ref url="about-us/roadmap-and-vision.md" %}

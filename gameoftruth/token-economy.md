@@ -26,8 +26,6 @@ coverY: 0
   * From PVE rewards.
 * The deflation mechanism: Era tokens are subject to an established deflation model of ‘sell and burn’. For every Era token sold by the user, 4% will enter the treasury and 1% will be automatically burnt. The whole process is automatically executed through smart contracts, which can be checked on the chain, making the process transparent and fair. In addition, Era7 players need to consume a certain percentage of GOT to summon new Era7 cards, thereby providing new circulation for the secondary market.
 
-![](<../.gitbook/assets/image (8).png>)
-
 ![](../.gitbook/assets/网1.jpg)
 
 ![](../.gitbook/assets/tokens.jpg)

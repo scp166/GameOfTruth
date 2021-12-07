@@ -10,7 +10,7 @@ coverY: 0
 * The Game of Truth is played on a battlefield made up of 9 \* 9 squares on both sides. First of all, both sides will randomly draw cards from their pre-built 30-card library. The player will then be able to drag out cards to use in-game. Battle cards will then attack and defend with the passing of each round, while some cards will have characteristic effects that transcend rounds. The battlefield is divided into three fronts. If there are no cards on the opponent's first front, attributing damage will be caused to the cards on the player's second front, and so on. When the opponent's HP drops to 0, victory is attained. Conversely, if your HP drops to 0, you’ve lost the battle.&#x20;
 * The core essentials of combat are: to establish battlefield advantages and powerful card groups; to play games with opponents through thought-out strategy making.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 ## PVE Player & Environment
 

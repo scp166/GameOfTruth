@@ -53,5 +53,3 @@ NCSoft Game Art Design
 ## COME TO US
 
 We have an experienced blockchain technology and game development team, which has successfully developed and released several phenomenon-level mobile games with more than ten million players in total.
-
-![](<../.gitbook/assets/image (23).png>)

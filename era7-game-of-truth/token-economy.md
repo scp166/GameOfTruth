@@ -21,13 +21,13 @@ coverY: 0
 
 ![](../.gitbook/assets/coin.jpg)
 
-* How to get GOT (GOT can be used to summon battle cards from the master card):&#x20;
+* How to get GOT:&#x20;
   * From in game activities rewards&#x20;
   * From PVE rewards.
 
 ![](../.gitbook/assets/GOT.jpg)
 
-* The deflation mechanism: Era tokens are subject to an established deflation model of ‘sell and burn’. For every Era token sold by the user, 4% will enter the treasury and 1% will be automatically burnt. The whole process is automatically executed through smart contracts, which can be checked on the chain, making the process transparent and fair. In addition, Era7 players need to consume a certain percentage of GOT to summon new Era7 cards, thereby providing new circulation for the secondary market.
+* The deflation mechanism: Era tokens are subject to an established deflation model of ‘sell and burn’. For every Era token sold by the user, 4% will enter the treasury and 1% will be automatically burnt. The whole process is automatically executed through smart contracts, which can be checked on the chain, making the process transparent and fair.&#x20;
 
 ![](../.gitbook/assets/网1.jpg)
 
@@ -54,10 +54,10 @@ coverY: 0
 *   Operation & Promotion – 4%&#x20;
 
     KOLs, Competitors, Community Building, Promotions.
-*   Seed & Private rounds – 17.5%&#x20;
+*   Seed & Private rounds – 17%&#x20;
 
     Private1 ,Private2 and institutional investors.
-* IDO 0.5%
+* IDO 1%
 
 ![](../.gitbook/assets/vesting.jpg)
 

@@ -39,9 +39,9 @@ coverY: 0
 * Liquidity Mining – 3%&#x20;
 * Game officials will be committed to providing liquidity on DEX / CEX.
 
-![](../.gitbook/assets/网2.jpg)
+![](<../.gitbook/assets/网2 (4).jpg>)
 
-![](<../.gitbook/assets/play 2.jpg>)
+![](<../.gitbook/assets/play 2 (2).jpg>)
 
 ## Token vesting
 
@@ -55,7 +55,7 @@ coverY: 0
   * Private1 ,Private2 and institutional investors.
 * IDO 1%
 
-![](../.gitbook/assets/vesting.jpg)
+![](<../.gitbook/assets/vesting (2).jpg>)
 
 ## Treasury
 

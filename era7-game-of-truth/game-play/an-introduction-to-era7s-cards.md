@@ -12,4 +12,4 @@ coverY: 0
 * Era7 provides Gamefi players with something fresh and new, and we believe that the game will attract tens of millions of players. Initially, we will launch Era7 cards of four qualities. When a new player enters Era7, he or she needs to buy master cards and obtain Era7 tokens through combat and summoning. Undoubtedly, the value of these cards shall grow day by day.
 * Era7 features two types of cards: Master cards and Battle Cards. Players need at least 30 battle cards to start a battle and the total number of cards in the game is expected to exceed 1,000. Master Cards and Battle Cards are NFTs, and the game clings to a strong principle of play-to-earn:
 
-![](../../.gitbook/assets/介绍卡牌.jpg)
+![](<../../.gitbook/assets/战斗卡法师1209 (1).png>)

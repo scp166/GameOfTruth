@@ -53,7 +53,7 @@ coverY: 0
   * KOLs, Competitors, Community Building, Promotions.
 * Seed & Private rounds – 17%&#x20;
   * Private1 ,Private2 and institutional investors.
-* IDO 1%
+* IDO 2%
 
 ![](../.gitbook/assets/vesting2.jpg)
 

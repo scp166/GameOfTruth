@@ -31,7 +31,7 @@ coverY: 0
 
 ![](../.gitbook/assets/网1.jpg)
 
-![](../.gitbook/assets/tokens.jpg)
+![](../.gitbook/assets/分配.jpg)
 
 * Play to earn – 52%
 * The circulation of earned tokens will account for 52% of the total Era token supply.
@@ -55,7 +55,7 @@ coverY: 0
   * Private1 ,Private2 and institutional investors.
 * IDO 2%
 
-![](../.gitbook/assets/vesting2.jpg)
+![](../.gitbook/assets/vesting.jpg)
 
 ## Treasury
 

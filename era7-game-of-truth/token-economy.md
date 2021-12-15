@@ -51,7 +51,7 @@ coverY: 0
   * Ecological partnerships include: engineering, advisory, IP designers, gaming and 3D development.
 * Operation & Promotion – 4%&#x20;
   * KOLs, Competitors, Community Building, Promotions.
-* Seed & Private rounds – 17%&#x20;
+* Seed & Private rounds – 16%&#x20;
   * Private1 ,Private2 and institutional investors.
 * IDO 2%
 

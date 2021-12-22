@@ -14,4 +14,6 @@ coverY: 0
 
 ![](../../.gitbook/assets/race-en.jpg)
 
+![](../../.gitbook/assets/英语.jpg)
+
 ![](../../.gitbook/assets/产出en.jpg)

@@ -16,4 +16,4 @@ coverY: 0
 
 ![](../../.gitbook/assets/英语.jpg)
 
-![](../../.gitbook/assets/产出en.jpg)
+![](../../.gitbook/assets/origin\_img\_v2\_9a5b0edb-37fd-45b5-a23d-46132eccf72g.jpg)

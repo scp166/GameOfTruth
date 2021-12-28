@@ -55,7 +55,7 @@ coverY: 0
   * Private1 ,Private2 and institutional investors.
 * IDO 2%
 
-![](../.gitbook/assets/vesting.jpg)
+![](../.gitbook/assets/1228.jpg)
 
 ## Treasury
 

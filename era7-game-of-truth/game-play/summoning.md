@@ -14,6 +14,6 @@ coverY: 0
 
 ![](../../.gitbook/assets/race-en.jpg)
 
-![](../../.gitbook/assets/英语.jpg)
+![](../../.gitbook/assets/origin\_img\_v2\_79487f88-d522-4303-aa7e-332c3520adeg.jpg)
 
-![](../../.gitbook/assets/origin\_img\_v2\_9a5b0edb-37fd-45b5-a23d-46132eccf72g.jpg)
+![](../../.gitbook/assets/召唤en.jpg)

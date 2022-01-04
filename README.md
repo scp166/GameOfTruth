@@ -25,6 +25,14 @@ coverY: 0
 [token-economy.md](era7-game-of-truth/token-economy.md)
 {% endcontent-ref %}
 
+{% content-ref url="faqs/terms-of-use.md" %}
+[terms-of-use.md](faqs/terms-of-use.md)
+{% endcontent-ref %}
+
+{% content-ref url="faqs/privacy-policy.md" %}
+[privacy-policy.md](faqs/privacy-policy.md)
+{% endcontent-ref %}
+
 {% content-ref url="about-us/roadmap-and-vision.md" %}
 [roadmap-and-vision.md](about-us/roadmap-and-vision.md)
 {% endcontent-ref %}

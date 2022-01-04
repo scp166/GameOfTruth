@@ -14,6 +14,10 @@
   * [Continent](era7-game-of-truth/game-play/continent.md)
 * [Token economy](era7-game-of-truth/token-economy.md)
 
+## FAQS
+
+* [Privacy Policy](faqs/privacy-policy.md)
+
 ## About us
 
 * [Roadmap & Vision](about-us/roadmap-and-vision.md)

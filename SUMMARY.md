@@ -17,6 +17,7 @@
 ## FAQS
 
 * [Privacy Policy](faqs/privacy-policy.md)
+* [Terms of Use](faqs/terms-of-use.md)
 
 ## About us
 

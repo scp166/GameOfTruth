@@ -22,21 +22,14 @@ Provided that you are eligible to use the Site, the App, and the Smart Contract,
 
 By using the Site, the App, and the Smart Contract, you represent yourself and agree that:
 
-(1) All registration information you submit is fully stated, true, accurate, and up-to-date;
-
-(2) You will maintain the accuracy of such given information and will be asked promptly to make updates whenever necessary;
-
-(3) You have the legal capacity and the thorough understanding of complying with these Terms of Use;
-
-(4) You are not a part of a minority community that practices laws and regulations which have nothing in common with ours;
-
-(5) You will not access the Site, the App, and the Smart Contract using automated and non-human means, whether it is a bot, script, or anything alike;
-
-(6) You will not use the Site, the App, and the Smart Contract for committing any illegal and unauthorized purpose;
-
-(7) Your use of the Site, the App, and the Smart Contract will not violate any existing given law or regulation. If you provide any information that is untruthful, inaccurate, not up-to-date, we have the right to suspend or terminate your accounts and refuse to approve your any action regarding any current or future activities of the Site, the App, and the Smart Contract.
-
-(8) You are not on any blacklist of any organization for any reason including committing scams, fraud; illegal data exploiting, using third-party software for personal benefits; trying to gain access and damage our assets without our approval; and everything alike. If we find out any illegal activities, we will make a prompt intervention and resolve to legal means if necessary.
+1. All registration information you submit is fully stated, true, accurate, and up-to-date;
+2. You will maintain the accuracy of such given information and will be asked promptly to make updates whenever necessary;
+3. You have the legal capacity and the thorough understanding of complying with these Terms of Use;
+4. &#x20;You are not a part of a minority community that practices laws and regulations which have nothing in common with ours;
+5. &#x20;You will not access the Site, the App, and the Smart Contract using automated and non-human means, whether it is a bot, script, or anything alike;
+6. You will not use the Site, the App, and the Smart Contract for committing any illegal and unauthorized purpose;
+7. Your use of the Site, the App, and the Smart Contract will not violate any existing given law or regulation. If you provide any information that is untruthful, inaccurate, not up-to-date, we have the right to suspend or terminate your accounts and refuse to approve your any action regarding any current or future activities of the Site, the App, and the Smart Contract.
+8. &#x20;You are not on any blacklist of any organization for any reason including committing scams, fraud; illegal data exploiting, using third-party software for personal benefits; trying to gain access and damage our assets without our approval; and everything alike. If we find out any illegal activities, we will make a prompt intervention and resolve to legal means if necessary.
 
 ## **3. USER REGISTRATION**
 
@@ -132,11 +125,11 @@ If we terminate or suspend your account for any reason, you are prohibited from 
 
 You expressly understand and agree that your access to and use of the Site, the App, and the Smart Contracts are at your sole risk and that the Site, the App, and the Smart Contracts are provided "as is" and "as available" without warranties of any kind, whether express or implied. To the fullest extent permissible pursuant to applicable law, we, our subsidiaries, affiliates, and licensors make no express warranties and hereby disclaim all implied warranties regarding the site, the app and the smart contracts and any part of it (including, but not limited to, the site, any smart contract, or any external websites), including the implied warranties of merchantability, fitness for a particular purpose, non-infringement, correctness, accuracy, or reliability. Without limiting the generality of the foregoing, we, our subsidiaries, affiliates, and licensors do not represent or warrant to you that:
 
-(i) your access to or use of the Site, the App, and the Smart Contracts will meet your requirements,
+(i) your access to or use of the Site, the App, and the Smart Contracts will meet your requirements.
 
-(ii) your access to or use of the Site, the App, and the Smart Contracts will be uninterrupted, timely, secure or free from error,
+(ii) your access to or use of the Site, the App, and the Smart Contracts will be uninterrupted, timely, secure or free from error.
 
-(iii) usage data provided through the Site, the App, and the Smart Contracts will be accurate,
+(iii) usage data provided through the Site, the App, and the Smart Contracts will be accurate.usage data provided through the Site, the App, and the Smart Contracts will be accurate.
 
 (iv) the Site, the App and the Smart Contracts or any content, services, or features made available on or through the Site, the App and the Smart Contracts are free of viruses or other harmful components, or
 

@@ -12,13 +12,13 @@ These following Terms of Use constitute a legally binding agreement made between
 
 &#x20;Our product is intended for users who are at least 18 years old. People under the age of 18 are not permitted to any form of using our assets including the Site, the App, and the Smart Contract. Such approaching people are asked to return immediately upon trying to access our product.
 
-## **1/ INTELLECTUAL PROPERTY COPYRIGHT**
+## **1. INTELLECTUAL PROPERTY COPYRIGHT**
 
 Apart from other noted indications, the Site and the App and the Smart Contract are our proprietary properties as well as all source codes, databases, functionalities, softwares, website designs, audios, videos, texts, photographs, and graphics on the Site and the Apps (collectively, the “Content"). Trademarks, service marks, and logos (the “Marks") are owned and legally licensed to us, controlled by us, and are protected regarding registration of intellectual property copyright. Apart from uses stated and provided in these Terms of Use, no part of the Site, the App as well as the Smart Contract and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purposes whatsoever, without asking for our legal approval.
 
 Provided that you are eligible to use the Site, the App, and the Smart Contract, you are granted limited access to and use of the Site to download or print a copy of any portion of the Content regarding personal, non-commercial uses.
 
-## **2/ USER REPRESENTATIONS**
+## **2.USER REPRESENTATIONS**
 
 By using the Site, the App, and the Smart Contract, you represent yourself and agree that:
 

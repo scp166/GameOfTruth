@@ -148,13 +148,13 @@ You accept the inherent security risks of providing information and dealing onli
 
 We will not be responsible or liable to you for any losses you incur as the result of your use of the Blockchain, including but not limited to any losses, damages, or claims arising from:
 
-(a) user error, such as forgotten passwords or incorrectly construed smart contracts or other transactions;
+(a) User error, such as forgotten passwords or incorrectly construed smart contracts or other transactions.
 
-(b) server failure or data loss;
+(b) Server failure or data loss.
 
-(c) corrupted wallet files;
+(c) Corrupted wallet files.
 
-(d) unauthorized access or activities by third parties, including but not limited to the use of viruses, phishing, brute-forcing, or other means of attack against the App, BSC network, or the Metamask electronic wallet.
+(d) Unauthorized access or activities by third parties, including but not limited to the use of viruses, phishing, brute-forcing, or other means of attack against the App, BSC network, or the Metamask electronic wallet.
 
 NFT (Master Card/Battle Card, etc.) are intangible digital assets that exist only by virtue of the ownership record maintained on the Blockchain. All Smart Contracts are conducted and occur on the decentralized ledger within the BSC network. TruthGame PTE. LTD. has no control over and makes no guarantees or promises with respect to the Smart Contract. Era7: Game of Truth is not responsible for losses due to the blockchains or any other features of the Blockchain. Including but not limited to late reports by developers or representatives (or no report at all) of any issues with the blockchain, including forks, technical node issues, or any other issues having fund losses as a result.
 
@@ -188,13 +188,15 @@ You accept and acknowledge each of the following:
 
 You agree to indemnify and defend us, including our affiliates and respective directors, officers, and personnel from and against all losses, costs, damages, expenses, and liabilities (including reasonable legal fees and disbursements) that may be suffered or incurred by Third-Party arising out of or as a result of or relating in any manner to a claim relating to:
 
-(i) use of the Site;
+(i) Use of the Site.
 
-(ii) breach of these Terms of Use;
+(ii) Breach of these Terms of Use.
 
-(iii) any breach of your representations and warranties set forth in these Terms of Use;
+(iii) Any breach of your representations and warranties set forth in these Terms of Use.
 
-(iv) your violation of the rights of a third party, including but not limited to intellectual property rights, or any overt harmful act toward any other use of the Site, the App, and the Smart Contracts with whom you connected via the Site, the App, and the Smart Contracts.
+(iv) Your violation of the rights of a third party, including but not limited to intellectual property rights.
+
+(v) Or any overt harmful act toward any other use of the Site, the App, and the Smart Contracts with whom you connected via the Site, the App, and the Smart Contracts.
 
 Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
 
@@ -215,3 +217,5 @@ If any provision or part of a provision of these Terms of Use is determined to b
 There is no joint venture, partnership, employment, or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them.
 
 You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
+
+&#x20;

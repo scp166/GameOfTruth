@@ -33,7 +33,7 @@ coverY: 0
 
 ![](../.gitbook/assets/分配.jpg)
 
-* Play to earn – 52%
+* Play to earn & Game Network Incentives – 52%
 * The circulation of earned tokens will account for 52% of the total Era token supply.
 * Of the 52% of tokens allocated through mining (play-to-earn), 20% will be used for ecological game incentives, including in-game behaviors that require NFT cards and the participation in various competitions set by the game. At the same time, 32% of the tokens will be used Participation in the competitive community platform and other competitive game modes that will be added in future. The Era7 project team will further develop the competitive ecological chain, launching an ace competitive product every year; the NFT of the Era token and the Era game will be universal to the platform.&#x20;
 * Liquidity Mining – 3%&#x20;
@@ -53,7 +53,7 @@ coverY: 0
   * KOLs, Competitors, Community Building, Promotions.
 * Seed & Private rounds – 16%&#x20;
   * Private1 ,Private2 and institutional investors.
-* IDO 2%
+* IFO 2%
 
 ![](../.gitbook/assets/1228.jpg)
 

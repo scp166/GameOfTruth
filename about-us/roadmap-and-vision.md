@@ -31,6 +31,10 @@ coverY: 0
   * Player fission
   * PVP light-competition mode&#x20;
   * Play-to-earn continues Competitive users of traditional games continue to import and cultivate competitive stars Player guessing mode activated
+* **2022.03:**
+  * Era7 beta launched
+* **2022.Q2:**
+  * Era7 on iOS/Android released
 * **2023.Q1**
   * Era7’s launch of a live, competitive ecological broadcasting platform
 * **2023.Q3**

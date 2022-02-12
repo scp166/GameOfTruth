@@ -31,7 +31,7 @@ coverY: 0
 
 ![](../.gitbook/assets/网1.jpg)
 
-![](../.gitbook/assets/分配.jpg)
+![](../.gitbook/assets/tokens\_a.png)
 
 * Play to earn & Game Network Incentives – 52%
 * The circulation of earned tokens will account for 52% of the total Era token supply.
@@ -55,7 +55,7 @@ coverY: 0
   * Private1 ,Private2 and institutional investors.
 * IFO 2%
 
-![](../.gitbook/assets/1228.jpg)
+![](../.gitbook/assets/vesting.png)
 
 ## Treasury
 

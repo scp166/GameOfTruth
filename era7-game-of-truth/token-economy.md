@@ -27,8 +27,6 @@ coverY: 0
 
 ![](../.gitbook/assets/GOT.jpg)
 
-* The deflation mechanism: Era tokens are subject to an established deflation model of ‘sell and burn’. For every Era token sold by the user, 4% will enter the treasury and 1% will be automatically burnt. The whole process is automatically executed through smart contracts, which can be checked on the chain, making the process transparent and fair.&#x20;
-
 ![](../.gitbook/assets/网1.jpg)
 
 ![](../.gitbook/assets/tokens\_a.png)

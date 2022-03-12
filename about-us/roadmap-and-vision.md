@@ -48,7 +48,7 @@ coverY: 0
 
       PvP Awards Organises
 * **2022.Q3**
-  * Various Esport Competitions Organized
+  * Various Esport Competitions Organises
   * Metaverse Explores
 * **2023.Q1**
   * Era7’s launch of a live, competitive ecological broadcasting platform

@@ -22,19 +22,34 @@ coverY: 0
   * Sales of the first batch of NFT blind boxes&#x20;
   * Gameplay and CG releases
 * **2022.1：**
-  * Official internal testing; public white list testing; reward announcements.&#x20;
-  * IDO&#x20;
-  * Start of the second batch of NFT pre-sale.
+  * Official Internal Testing Launched
+  * IGO on Binance NFT
+  * Turkish and Persian Self-Organising Communities Established
 * **2022.2：**
-  * Era7 alpha test&#x20;
-  * Advertising&#x20;
-  * Player fission
-  * PVP light-competition mode&#x20;
-  * Play-to-earn continues Competitive users of traditional games continue to import and cultivate competitive stars Player guessing mode activated
+  * Era7 Alpha Testing Version Launched
+  * IFO on PancakeSwap
+  * ERA Token listed on CoinMarketCao & CoinGecko
+  * Indian, Indonesian, Brazilian, Arabic Communities Established
 * **2022.03:**
-  * Era7 beta launched
+  * Era7 Officially Launched
+  * Unsealing NFT Master Card Available
+  * Mining Camp for NFT Battle Card Open
+  * The Third Batch NFT Mystery Boxes Going on Sale
+  * PvP Light-Competition Mode & PvE Mode launches
+  * Free-to-Play Mode Launches
 * **2022.Q2:**
-  * Era7 on iOS/Android released
+  * Era7 on iOS/Android Releases
+  * GOT Token on DEX\CEX launches
+  * DAO Establishes
+  * Play-to-Earn Continues\
+    Competitive Users of Traditional Games Can Continue to Import And Cultivate Competitive Stars\
+    Players Guessing Mode Activates
+  *   Competitions and Betting System Available
+
+      PvP Awards Organises
+* **2022.Q3**
+  * Various Esport Competitions Organized
+  * Metaverse Explores
 * **2023.Q1**
   * Era7’s launch of a live, competitive ecological broadcasting platform
 * **2023.Q3**

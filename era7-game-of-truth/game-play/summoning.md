@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Banner-带logo.jpg
+cover: ../../.gitbook/assets/Banner-logo.jpg
 coverY: 0
 ---
 
@@ -24,6 +24,6 @@ If the NFT Master Card has reached the maximum amount of Summoning, the players 
 
 ![](../../.gitbook/assets/origin\_img\_v2\_79487f88-d522-4303-aa7e-332c3520adeg.jpg)
 
-![](../../.gitbook/assets/召唤en.jpg)
+![](../../.gitbook/assets/Summon\_en.jpg)
 
 For instance, one legendary rarity level of NFT Master Card was capable of Summoning NFT Battle Card 150 times. Because 10 additional times will be automatically added after the NFT Master Card is Unsealed, the total Summoning amount would be 160.

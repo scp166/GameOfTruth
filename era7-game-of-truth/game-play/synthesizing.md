@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Banner-带logo.jpg
+cover: ../../.gitbook/assets/Banner-logo.jpg
 coverY: 0
 ---
 

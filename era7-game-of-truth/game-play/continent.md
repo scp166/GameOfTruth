@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Banner-带logo.jpg
+cover: ../../.gitbook/assets/Banner-logo.jpg
 coverY: 0
 ---
 
@@ -9,4 +9,4 @@ coverY: 0
 * Players also have a certain probability of obtaining Era tokens through the land itself.
 * This is a unique feature of The Game of Truth, and sets the game apart from similar platforms within GameFi; players have land development rights while landowners will receive abundant resources and subsidies. This is the working direction that the project party shall focus on in the future.
 
-![](../../.gitbook/assets/领地系统.png)
+![](../../.gitbook/assets/PVE.png)

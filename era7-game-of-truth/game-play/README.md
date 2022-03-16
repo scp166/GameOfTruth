@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Banner-带logo.jpg
+cover: ../../.gitbook/assets/Banner-logo.jpg
 coverY: 0
 ---
 
@@ -13,7 +13,7 @@ coverY: 0
 * Moreover, the numerical system in the game is very balanced and the logic of the game’s design is very clear, which makes Era7’s battles rich and diverse while fair and competitive.
 * With each battle lasting only three minutes, players are forced to think on their feet to form their own unique lineups through intensive strategic planning. No matter what the player's level is, they can have fun. Furthermore, for those that like to take risks, E-sports is a promising faculty that the game will provide as standard.
 
-![](../../.gitbook/assets/游戏玩法页.png)
+![](../../.gitbook/assets/GamePlay.png)
 
 {% content-ref url="an-introduction-to-era7s-cards.md" %}
 [an-introduction-to-era7s-cards.md](an-introduction-to-era7s-cards.md)

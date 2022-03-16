@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Banner-带logo.jpg
+cover: ../.gitbook/assets/Banner-logo.jpg
 coverY: 0
 ---
 
@@ -11,4 +11,4 @@ coverY: 0
 * The Game of Truth plot revolves around seven races on the Continent of Truth who compete for the title of "King of Truth." Amongst the races are groups of specially gifted individuals who are sent to attend Summoner Academy to undergo rigorous training where they graduate to become Summoners. Upon graduation, they travel the world to make Summoning Pacts with the most powerful amongst the seven races, to establish strong allies in order to consolidate their power.
 * Since ancient times, throughout the year, battles amongst the Summoners have been held in the heart of the Continent. These Summoning Battles attract Summoners from all over the world who battle for the "King of Truth" title. The winner is crowned King of the Continent, and he and his race are awarded the highest honors in the land.&#x20;
 
-![](../.gitbook/assets/背景故事.jpg)
+![](../.gitbook/assets/Story.jpg)

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Banner-logo.jpg
+cover: ../.gitbook/assets/Banner_logo.jpg
 coverY: 0
 ---
 
@@ -28,7 +28,7 @@ coverY: 0
 * **2022.2：**
   * Era7 Alpha Testing Version Launched
   * IFO on PancakeSwap
-  * ERA Token listed on CoinMarketCao & CoinGecko
+  * ERA Token listed on CoinMarketCap & CoinGecko
   * Indian, Indonesian, Brazilian, Arabic Communities Established
 * **2022.03:**
   * Era7 Officially Launched
@@ -70,4 +70,4 @@ coverY: 0
 
 * Era7 is committed to becoming the best Gamified TCG card game in the world. With fairness, safety and transparency at the core of the game and interesting gameplay with rich player benefits on the outer, Era7: Game of Truth is set for an exponentially upward roller-coaster ride. Its life cycle is practically infinite, truly epitomizing the ‘play-to-earn’ ideology. It will also bring a fresh breath of productivity to the blockchain and gaming industries, it shall flesh out the new model of NFT + Gamefi + Defi, and move the world towards the era of metaverse gaming. Lastly, we should mention that a variety of top partners are already onboard.
 
-![](../.gitbook/assets/vision.jpg)
+![](<../.gitbook/assets/vision (1).jpg>)

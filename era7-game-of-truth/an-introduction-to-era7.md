@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Banner-logo.jpg
+cover: ../.gitbook/assets/Banner_logo.jpg
 coverY: 0
 ---
 
@@ -18,4 +18,4 @@ coverY: 0
 * The game’s quality is impeccable and state-of-the-art;
 * The design of the competitive system is clear and reasonable.
 
-![](<../.gitbook/assets/Introducing ERA7.png>)
+![](<../.gitbook/assets/An introduction to Era7.png>)

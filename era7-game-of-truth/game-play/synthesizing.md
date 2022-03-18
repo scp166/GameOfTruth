@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Banner-logo.jpg
+cover: ../../.gitbook/assets/Banner_logo.jpg
 coverY: 0
 ---
 
@@ -19,4 +19,4 @@ coverY: 0
 
     Higher levels of NFT Battle Cards not only perform better in fighting and mining, but also have higher market value, which means they can be traded at a high price in the Marketplace, and overall increase profits to players.
 
-![](<../../.gitbook/assets/image (28).png>)
+![](../../.gitbook/assets/Synthesizing.png)

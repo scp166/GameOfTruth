@@ -39,7 +39,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/Token economy5-en.jpg>)
 
-![](<../.gitbook/assets/Token economy6-en.jpg>)
+![](<../.gitbook/assets/Token economy6-en.png>)
 
 ## Token vesting
 

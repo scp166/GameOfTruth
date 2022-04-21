@@ -10,23 +10,19 @@ Nexon Game Developer
 
 KUNLUN Game publishing General manager
 
-### Sun Youngbum
+### **Lee Seoung Ki**
 
-Seoul National University Master's degree
+Seoul National University bachelor's degree
 
-Neowiz Senior programmer
+RedDuck  Game System Design/PD
 
-RedDuck Game Developer
+Neowiz  Game System Design
 
-### Chong Youngjae
+### **Choi Woojin**
 
-Yeungnam University Bachelor's degree
+Youngsan University bachelor's degree
 
-Nexon Game Developer
-
-Netmarble Game Developer
-
-Com2us Game Developer
+RedDuck  Game System Design/PD
 
 ## System Design
 

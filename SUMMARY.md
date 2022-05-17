@@ -12,6 +12,7 @@
   * [Summoning](era7-game-of-truth/game-play/summoning.md)
   * [Synthesizing](era7-game-of-truth/game-play/synthesizing.md)
   * [Continent](era7-game-of-truth/game-play/continent.md)
+  * [Campaign](era7-game-of-truth/game-play/campaign.md)
 * [Token economy](era7-game-of-truth/token-economy.md)
 
 ## FAQS

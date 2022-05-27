@@ -14,6 +14,7 @@
   * [Continent](era7-game-of-truth/game-play/continent.md)
   * [Campaign](era7-game-of-truth/game-play/campaign.md)
 * [Token economy](era7-game-of-truth/token-economy.md)
+* [Era7 Farm](era7-game-of-truth/era7-farm.md)
 
 ## FAQS
 

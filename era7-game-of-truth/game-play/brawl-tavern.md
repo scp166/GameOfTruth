@@ -93,3 +93,5 @@ a.    1% = Burning ERA Tokens
 b.    1% = Reserved in the Era7 Treasury
 
 c.     3% = Adding into the Lucky Bonus Pool
+
+There is a 5% of Battle Tax for each battle in Brawl Tavern. Please refer to 19.

@@ -16,7 +16,7 @@
   * [Brawl Tavern](era7-game-of-truth/game-play/brawl-tavern.md)
 * [Token economy](era7-game-of-truth/token-economy.md)
 * [Era7 Farm](era7-game-of-truth/era7-farm.md)
-* [Introduction to Referral+](era7-game-of-truth/introduction-to-referral+.md)
+* [Referral+](era7-game-of-truth/referral+.md)
 
 ## FAQS
 

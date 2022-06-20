@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/marketplace.jpg)
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (1).png>)
 
 *   Campaign Introduction:
 

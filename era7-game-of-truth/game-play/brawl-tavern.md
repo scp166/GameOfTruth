@@ -1,7 +1,5 @@
 # Brawl Tavern
 
-## Brawl Tavern is a PvP mode that allows you to customize the battle room.
-
 Brawl Tavern is a PvP mode that allows you to customize the battle room.
 
 You can unlock it when you reach Lv. 6 in Quick Match. You can either create your own room or join a room created by another player, having a 1v1 battle.

@@ -34,7 +34,7 @@ To enter the battle room, you need to meet the matching requirements of the room
 
 The Calculation Rule of Combat Power:
 
-![](<../../.gitbook/assets/combat power.png>)
+![](<../../.gitbook/assets/1 (3).png>)
 
 10\.  \[Search]
 

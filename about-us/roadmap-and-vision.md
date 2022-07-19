@@ -38,18 +38,25 @@ coverY: 0
   * PvP Light-Competition Mode & PvE Mode launches
   * Free-to-Play Mode Launches
 * **2022.Q2:**
-  * Era7 on iOS/Android Releases
+  * Era7 on Android Releases
   * GOT Token on DEX\CEX launches
   * DAO Establishes
-  * Play-to-Earn Continues\
-    Competitive Users of Traditional Games Can Continue to Import And Cultivate Competitive Stars\
-    Players Guessing Mode Activates
+  * Play-to-Earn Continues
+  *   Competitive Users of Traditional Games Can Continue to Import And Cultivate Competitive Stars
+
+      Players Guessing Mode Activates
   *   Competitions and Betting System Available
 
       PvP Awards Organises
-* **2022.Q3**
+* **2022.Q3:**
   * Various Esport Competitions Organises
   * Metaverse Explores
+  * World Cup Tournament system Launches
+  * New NFT Master Card Launches
+* **2022.Q4:**
+  * E-sports platform scholarship system promotes
+  * New NFT Mystery Box pre-sale opens
+  * More Off-line activities will be organized
 * **2023.Q1**
   * Era7’s launch of a live, competitive ecological broadcasting platform
 * **2023.Q3**

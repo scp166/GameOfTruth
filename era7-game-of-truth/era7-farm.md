@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Era7 Farm allow you to earn GOT and ERA Token by staking ERA-BNB LP tokens. To obtain ERA-BNB LP Tokens, you need to provide liquidity to ERA-BNB pool on PancakeSwap. Based on the number of ERA Token and BNB that you add into the pool, representing your share in the asset of the liquidity pool, you receive the corresponding amount of LP Tokens.
+Era7 Farm allow you to earn  ERA Token by staking ERA-BNB LP tokens. To obtain ERA-BNB LP Tokens, you need to provide liquidity to ERA-BNB pool on PancakeSwap. Based on the number of ERA Token and BNB that you add into the pool, representing your share in the asset of the liquidity pool, you receive the corresponding amount of LP Tokens.
 
 Please note that your ERA-BNB LP Tokens can only be staked in either Era7 Farm or the ERA-BNB Farm on PancakeSwap. You won’t be rewarded by staking ERA-BNB LP tokens in both Farms.
 
@@ -14,17 +14,11 @@ The number of ERA Tokens distributed daily to Era7 Farm users is determined by E
 
 ![](../.gitbook/assets/Farm1.jpg)
 
-2\.     GOT
-
-The number of GOT distributed to Era7 Farm users is determined by the total number of unsealed NFT Master Card, and the daily distribution is updated at 00:00 UTC every day.
-
-![](../.gitbook/assets/Farm2.jpg)
-
-3\. APR (Annual Percentage Rate)
+2\. APR (Annual Percentage Rate)
 
 ERA-BNB LP Token APR is calculated according to the total amount of staked tokens and daily rewards. The data is updated in real-time.
 
-4\. Claim Your Rewards
+3\. Claim Your Rewards
 
 The GOT and ERA Token that you earned in Era7 Farm are updated in real-time. You can claim your rewards at any time
 

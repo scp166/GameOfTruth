@@ -55,7 +55,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/Token economy7-en.png>)
 
-## Treasury
+## Burning & Treasury
 
 * The Burning Rules & Treasury Inflows of ERA Token as well as GOT Token are as shown below.
 

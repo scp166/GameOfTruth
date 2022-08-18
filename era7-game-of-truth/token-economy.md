@@ -53,7 +53,7 @@ coverY: 0
   * Private1 ,Private2 and institutional investors.
 * IFO 2%
 
-![](../.gitbook/assets/B.png)
+![](../.gitbook/assets/B\_2.png)
 
 ## Burning & Treasury
 

@@ -53,7 +53,7 @@ coverY: 0
   * Private1 ,Private2 and institutional investors.
 * IFO 2%
 
-![](<../.gitbook/assets/Token economy7-en.png>)
+![](../.gitbook/assets/B.png)
 
 ## Burning & Treasury
 

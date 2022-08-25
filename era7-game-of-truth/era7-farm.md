@@ -12,7 +12,7 @@ Please note that your ERA-BNB LP Tokens can only be staked in either Era7 Farm o
 
 The number of ERA Tokens distributed daily to Era7 Farm users is determined by ERA Token TVL. (Total Value Locked), and the daily distribution is updated at 00:00 UTC every day.
 
-![](../.gitbook/assets/Farm1.jpg)
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. APR (Annual Percentage Rate)
 

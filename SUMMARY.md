@@ -1,6 +1,6 @@
 # Table of contents
 
-## Era7:Game Of Truth
+## Era7: Game Of Truth
 
 * [CONTENTS](README.md)
 * [Market overview](era7-game-of-truth/market-overview.md)

@@ -1,4 +1,4 @@
-# Introduction to Referral+
+# Referral+
 
 ## **-Who can join the program?**
 
@@ -20,7 +20,7 @@ When this is done, you will be able to start earning the rewards.
 ## **-What is the Referral Rewards?**
 
 You can get two kinds of rewards when your friends complete the task (registering an Era7 account and claiming Game GOT Token from the game.).\
-ERA Token Reward: Get 20 ERA Tokens for every invited friend who completes the task.\
+ERA Token Reward: Get 10 ERA Tokens for every invited friend who completes the task.\
 GOT Reward: Every time when your invited friend claims Game GOT to their wallet, you get a 5% commission based on the number of Game GOT they claim.
 
 ![](../.gitbook/assets/Referral1.png)

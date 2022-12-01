@@ -1,5 +1,11 @@
 # Team Member
 
+## CEO&#x20;
+
+### Adam Zhao&#x20;
+
+EMBA degree from Cambridge University Early adpoter and angel investor in crypto 4 Years entrepreneurship in Web3 industry 6 Years work experience and entrepreneurship in TMT Industry Digital marketing savvy & familiar with growth hacking techniques Card game lover & player
+
 ## Programming
 
 ### Alice Jang

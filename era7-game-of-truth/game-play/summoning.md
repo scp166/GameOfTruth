@@ -20,7 +20,9 @@ coverY: 0
 
 If the NFT Master Card has reached the maximum amount of Summoning, the players will need to consume ERA and GOT tokens as fuel so that they can continue Summoning.
 
-![](../../.gitbook/assets/Summoning3-EN.jpg)
+<figure><img src="../../.gitbook/assets/summoning1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/summoning2_EN.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/Summoning4-EN.png)
 

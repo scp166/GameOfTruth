@@ -17,7 +17,6 @@ coverY: 0
 ![](../../.gitbook/assets/Summoning2-en.jpg)
 
 * Each rarity level of the NFT Master Card (Common, Rare, Epic, and Legendary) has its own specific amount of summoning, of cooldown, and also has a corresponding probability to generate different rarity levels of NFT Battle Cards (for the actual probability please see the chart below).
-* If the NFT Master Card has reached the maximum amount of Summoning, the players will need to consume ERA and GOT tokens as fuel so that they can continue Summoning.
 
 <figure><img src="../../.gitbook/assets/summoning1.png" alt=""><figcaption></figcaption></figure>
 

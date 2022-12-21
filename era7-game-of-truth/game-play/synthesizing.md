@@ -22,9 +22,3 @@ coverY: 0
     Higher levels of NFT Battle Cards not only perform better in fighting and mining, but also have higher market value, which means they can be traded at a high price in the Marketplace, and overall increase profits to players.
 
 ![](<../../.gitbook/assets/6 (1).jpg>)
-
-* Whenever the Master Card runs out of the total number of summon , the player need to spend ERA and GOT to restore the Master Card, after that the Master Card can continue to be summoned for half of the total number of summon. Please refer to the following photo for the resources consumption of restoring NFT Master Card.
-
-<figure><img src="../../.gitbook/assets/synthesizing1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/synthesizing2.png" alt=""><figcaption></figcaption></figure>

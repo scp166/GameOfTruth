@@ -17,8 +17,7 @@ coverY: 0
 ![](../../.gitbook/assets/Summoning2-en.jpg)
 
 * Each rarity level of the NFT Master Card (Common, Rare, Epic, and Legendary) has its own specific amount of summoning, of cooldown, and also has a corresponding probability to generate different rarity levels of NFT Battle Cards (for the actual probability please see the chart below).
-
-If the NFT Master Card has reached the maximum amount of Summoning, the players will need to consume ERA and GOT tokens as fuel so that they can continue Summoning.
+* If the NFT Master Card has reached the maximum amount of Summoning, the players will need to consume ERA and GOT tokens as fuel so that they can continue Summoning.
 
 <figure><img src="../../.gitbook/assets/summoning1.png" alt=""><figcaption></figcaption></figure>
 
@@ -26,4 +25,9 @@ If the NFT Master Card has reached the maximum amount of Summoning, the players 
 
 ![](../../.gitbook/assets/Summoning4-EN.png)
 
-For instance, one legendary rarity level of NFT Master Card was capable of Summoning NFT Battle Card 150 times. Because 10 additional times will be automatically added after the NFT Master Card is Unsealed, the total Summoning amount would be 160.
+* For instance, one legendary rarity level of NFT Master Card was capable of Summoning NFT Battle Card 150 times. Because 10 additional times will be automatically added after the NFT Master Card is Unsealed, the total Summoning amount would be 160.
+* Whenever the Master Card runs out of the total number of summon , the player need to spend ERA and GOT to restore the Master Card, after that the Master Card can continue to be summoned for half of the total number of summon. Please refer to the following photo for the resources consumption of restoring NFT Master Card.
+
+<figure><img src="../../.gitbook/assets/synthesizing1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/synthesizing2.png" alt=""><figcaption></figcaption></figure>

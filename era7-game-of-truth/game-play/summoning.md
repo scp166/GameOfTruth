@@ -24,7 +24,7 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/summon_en.png" alt=""><figcaption></figcaption></figure>
 
-* When the NFT Master Card is unsealed for the first time, it can directly summon NFT Battle Card 10 times. Then the next summoning requires a corresponding time gap to unlock.
+* When the NFT Master Card is unsealed for the first time, it can directly summon NFT Battle Card 6 times. Then the next summoning requires a corresponding time gap to unlock.
 * Whenever the Master Card runs out of the total number of summon , the player need to spend ERA and GOT to restore the Master Card, after that the Master Card can continue to be summoned for half of the total number of summon. Please refer to the following photo for the resources consumption of restoring NFT Master Card.
 
 <figure><img src="../../.gitbook/assets/synthesizing1.png" alt=""><figcaption></figcaption></figure>

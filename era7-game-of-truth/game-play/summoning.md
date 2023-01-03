@@ -22,9 +22,9 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/summoning2_EN.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/Summoning4-EN.png)
+<figure><img src="../../.gitbook/assets/summon_en.png" alt=""><figcaption></figcaption></figure>
 
-* For instance, one legendary rarity level of NFT Master Card was capable of Summoning NFT Battle Card 150 times. Because 10 additional times will be automatically added after the NFT Master Card is Unsealed, the total Summoning amount would be 160.
+* When the NFT Master Card is unsealed for the first time, it can directly summon NFT Battle Card 10 times. Then the next summoning requires a corresponding time gap to unlock.
 * Whenever the Master Card runs out of the total number of summon , the player need to spend ERA and GOT to restore the Master Card, after that the Master Card can continue to be summoned for half of the total number of summon. Please refer to the following photo for the resources consumption of restoring NFT Master Card.
 
 <figure><img src="../../.gitbook/assets/synthesizing1.png" alt=""><figcaption></figcaption></figure>
